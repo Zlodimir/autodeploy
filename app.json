@@ -1,0 +1,7 @@
+{
+  "name": "RoR Sample",
+  "description": "A test of the build heroku button",
+  "repository": "https://github.com/Zlodimir/autodeploy",
+  "logo": "https://pbs.twimg.com/media/DDm2-ACXcAAJm_Q.jpg",
+  "keywords": ["rails", "test"]
+}
